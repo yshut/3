@@ -206,7 +206,11 @@ function _Home() {
                 shadow
               />
             </div>
-            
+            <div className={styles["sidebar-action"]}>
+              <a href= target="_blank">
+                <IconButton icon= shadow />
+              </a>
+            </div>
           </div>
           <div>
             <IconButton
