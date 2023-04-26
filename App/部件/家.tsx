@@ -171,7 +171,8 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ideaLab chat</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            若出现无法使用的情况或需要访问码
+            请联系WeChat：yshut313
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
